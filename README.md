@@ -1,2 +1,2 @@
-# urbvan_tech_test
-Technic Testing of Urbvan_Parenthesis balancer
+# parenthesis_balance_test
+Technic Testing of Parenthesis balancer algorithm
